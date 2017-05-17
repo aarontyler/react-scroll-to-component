@@ -12,7 +12,7 @@
     "react-dom": "^0.14.0 || ^15.0.0"
   },
   "dependencies": {
-    "scroll-to": "0.0.2"
+    "scroll-to": "https://github.com/aarontyler/scroll-to/tarball/master"
   },
   "keywords": [
     "react",
